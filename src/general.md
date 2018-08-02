@@ -4,9 +4,9 @@
 
 ```
 web:
-  80351110224678912: admin #b1nzy
-  108598213681922048: editor #wolfiri
-  232921983317180416: viewer #rowboat
+  166304313004523520: admin # OGNovuh
+  191793155685744640: editor # Term
+  351097525928853506: viewer
 ```
 
 Web determines which users are able to view the configuration dashboard for the server. Commenting a line with the Username above each ID helps with organization.
@@ -16,7 +16,7 @@ User ID is used to assign ranks. There are three ranks you can assign: admin, ed
 ### Nickname
 
 ```
-nickname: R0WB0AT
+nickname: A1RPL4NE
 ```
 
 Set a nickname for the bot! Nickname is applied upon reload of the bot.
@@ -34,7 +34,7 @@ This is where you assign levels to each role! Remember, the default level is 0 i
 
 By default, each level has a certain rank associated with it: 0 - Default, 10 - Trusted, 50 - Mod, 100 - Admin. You can view the default rank required for each command by looking at the Commands section for the plugin.
 
-Levels can be assigned anywhere from 0 to 100, keeping in mind the default permissions given in the Rowboat Docs.
+Levels can be assigned anywhere from 0 to 100, keeping in mind the default permissions given in the airplane Docs.
 
 ### Commands and Overrides
 

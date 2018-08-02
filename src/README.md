@@ -1,38 +1,21 @@
-# Rowboat
+# airplane
 
-Rowboat is a utilitarian and administration assistant for Discord. It's a bot that was built to be highly configurable, and allow server admins to modify functionality based on the requirements of individual servers. The freely hosted version of Rowboat is private, and only added on high-traffic servers. Rowboat is [open-source](https://github.com/b1naryth1ef/rowboat).
-
-## Use Cases
-
-### r/Overwatch
-
-With over 50,000 members, r/Overwatch is one of Discord's largest and most complicated servers. Previously the administration team had put together a multitude of custom-written bots with various functionality, but when moving to Rowboat they where able to eliminate these entirely. Rowboat provides r/Overwatch with the level of protection and auditing required to run such a high activity server.
-
-#### Multiple Mod Logs
-
-By using Rowboat's support for multiple mod logs, r/Overwatch's admins are able to split and categorize logs into various channels, reducing noise without sacrificing logging.
-
-#### Spam Prevention
-
-By turning on Rowboat's spam prevention, r/Overwatch takes a huge burden off moderators and ensures the server is safe even when nobody is watching. With the high level of configurability they were able to ensure a level of security which does not impact normal chat, but catches bad actors quickly and efficiently.
+airplane is a utilitarian and administration assistant for Discord. It's a bot that was built to be highly configurable, and allow server admins to modify functionality based on the requirements of individual servers. The freely hosted version of airplane is private, and only added on high-traffic servers. airplane is [open-source](https://github.com/OGNova/airplane).
 
 ## User Testimonials
 
-### Looney - Events and Community for Discord
+### Nuna - Community Manager
 
-> Rowboat has allowed us to efficiently scale the moderation teams of our large public and private community servers, without placing extra burden on our volunteer moderators or sacrificing auditability.
+> I’ve been exposed to many different bots, while all were wonderful, I’ve found Airplane to be the best. Training my moderators how to use this bot is simple and easy, and the commands we have access to are both useful and fun. I feel that since we’ve been using Airplane, our Discord has grown exponentially. The lack of crashes and bugs with the Airplane bot is one of the key things for any Discord, as well as the tracking aspects. We can track name changes, role changes, our trainee mod’s activities, all in clear and concise logs that are easy to follow and well thought out. All in all, a well built bot that can be used on large servers as well as smaller ones with ease.
 
-### PapaSmurf - Community Moderator, Server Owner and Discord Partner
+### Gullus - Community Manager
 
-> Rowboat has helped me manage the multiple servers I run with quick and easy access to logging information.
+> Airplane has helped me manage a server of 30,000+ users, the bot's layout is simple, easy to learn, and easy to use. Before Airplane we had to utilize 5 bots to keep the server running. Overall, with the dedication and help from the devs, the bot has improved the server more than any other bot we've seen.
 
-### Tachyon - Community Moderator and Discord Hypesquad Member
+### Xenitran - Community Manager
 
-> Rowboat allows for easy logging and server administration and moderation; it plays an important role in any discord community and is one of the most responsive bots out there.
+> The bot has improved the workload of moderators, by automatically taking care of some spam, censoring and is generally contributing to a much more smoother and accurate handling with people and infractions. It gives us time to focus on more complicated matters and see to a better security of the server.
 
-### Wolfiri - Community Moderator, Server Owner and Discord Partner
-
-> Before Rowboat came along, I was stuck using poorly built and inadequate bots with confusing in-client configurations or limited dashboard options. Now with Rowboat, I'm able to easily customize every option and plugin, giving me only the features I want and exactly how I want them. The level of customization is unmatched by any other bot. My moderation team now has the tools at their disposal to handle anything thrown at them without needing extensive training to use these tools. I also no longer have to worry about missing anything with the comprehensive moderation log feature. Every change is tracked from nicknames to deleted messages. Not only does Rowboat have the best moderation tools, the utility commands are also heavily used on my servers. We have reminders, multi-jumbo emoji, and random cats! Every feature on Rowboat is well thought out and built with the user's experience in mind. Rowboat is an exceptional bot and has truly enhanced my experience on Discord -- I can't imagine moderating a server without it!
 
 ## Plugins
 
