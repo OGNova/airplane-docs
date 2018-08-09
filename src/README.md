@@ -14,11 +14,11 @@ Airplane is a utilitarian and administration assistant for Discord. It's a bot t
 
 ### Xenitran - Community Manager
 
-> The bot has improved the workload of moderators, by automatically taking care of some spam, censoring and is generally contributing to a much more smoother and accurate handling with people and infractions. It gives us time to focus on more complicated matters and see to a better security of the server.
+> The bot has improved the workload of moderators, by automatically taking care of some spam, censoring and is generally contributing to a much more smooth and accurate handling of people and infractions. It gives us time to focus on more complicated matters and see to better security of the server.
 
 ### Swagger Souls - Community Owner, Discord Partner, and Content Creator
 
-> The bot is extremely useful in dealing with spammers, rule breakers, and ultimately puts a lot of pressure and stress off of the staff team, allowing them to focus more of their time on incidents and issues that deserve their attention! The logging system is extremely useful, and we consistently use it to make sure rule breakers are dealt with, and the staff are operating within their jurisdiction.
+> The bot is extremely useful in dealing with spammers, rule breakers, and ultimately takes a lot pressure and stress off of the staff team, allowing them to focus more of their time on incidents and issues that deserve their attention! The logging system is extremely useful, and we consistently use it to make sure rule breakers are dealt with, and the staff are operating within their jurisdiction.
 
 ## Plugins
 
@@ -71,3 +71,6 @@ Airplane is a utilitarian and administration assistant for Discord. It's a bot t
   - Server information
   - User search
   - CAT PHOTOS
+  - DOG PHOTOS
+  - BIRD PHOTOS
+  - DUCK PHOTOS
