@@ -1,6 +1,6 @@
-# airplane
+# Airplane
 
-airplane is a utilitarian and administration assistant for Discord. It's a bot that was built to be highly configurable, and allow server admins to modify functionality based on the requirements of individual servers. The freely hosted version of airplane is private, and only added on high-traffic servers. airplane is [open-source](https://github.com/OGNova/airplane).
+Airplane is a utilitarian and administration assistant for Discord. It's a bot that was built to be highly configurable, and allow server admins to modify functionality based on the requirements of individual servers. The freely hosted version of airplane is private, and only added on high-traffic servers. airplane is [open-source](https://github.com/OGNova/airplane).
 
 ## User Testimonials
 
@@ -16,6 +16,9 @@ airplane is a utilitarian and administration assistant for Discord. It's a bot t
 
 > The bot has improved the workload of moderators, by automatically taking care of some spam, censoring and is generally contributing to a much more smoother and accurate handling with people and infractions. It gives us time to focus on more complicated matters and see to a better security of the server.
 
+### Swagger Souls - Community Owner, Discord Partner, and Content Creator
+
+> The bot is extremely useful in dealing with spammers, rule breakers, and ultimately puts a lot of pressure and stress off of the staff team, allowing them to focus more of their time on incidents and issues that deserve their attention! The logging system is extremely useful, and we consistently use it to make sure rule breakers are dealt with, and the staff are operating within their jurisdiction.
 
 ## Plugins
 
