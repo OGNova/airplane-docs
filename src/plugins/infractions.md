@@ -17,11 +17,11 @@ The infractions plugin provides a set of useful moderator commands. These comman
 | `!forceban {User ID} [reason]` | Force bans a user who is not currently in the server | Moderator | `!forceban 232921983317180416 spamming` |
 | `!softban {user} [reason]` | Softbans (bans/unbans) a user and deletes the user's messages sent within the last 7 days | Moderator | `!softban 232921983317180416 spamming` OR `!softban @airplane#1595 spamming` |
 | `!tempban {user} {duration} [reason]` | Temporarily bans a user | Moderator | `!tempban 232921983317180416 5h spamming` OR `!tempban @airplane#1595 5h spamming` |
-| `!infractions archive` | Creates a CSV file of all infractions on the server | Administrator | `!infractions archive` |
-| `!infractions search {query}` | Searches infractions database for given query | Moderator | `!infractions search 232921983317180416` OR `!infractions search airplane#1595` OR `!infractions search spamming`
-| `!infractions info {inf#}` | Presents information on the given infraction | Moderator | `!infractions info 1274`
-| `!infractions duration {inf#} {duration}` | Updates the duration of the given infraction. Duration starts from time of initial action | Moderator | `!infractions duration 1274 5h` |
-| `!reason {inf#} {reason}` | Updates the reason of a given infraction | Moderator | `!infractions reason 1274 rude behaviour towards staff` |
+| `!inf archive` | Creates a CSV file of all infractions on the server | Administrator | `!inf archive` |
+| `!inf search {query}` | Searches infractions database for given query | Moderator | `!inf search 232921983317180416` OR `!inf search airplane#1595` OR `!inf search spamming`
+| `!inf info {inf}` | Presents information on the given infraction | Moderator | `!inf info 1274`
+| `!inf duration {inf|ml} {duration}` | Updates the duration of the given infraction. Duration starts from time of initial action | Moderator | `!inf duration 1274 5h` |
+| `!inf reason {inf|ml} {reason}` | Updates the reason of a given infraction | Moderator | `!inf reason 1274 rude behaviour towards staff` |
 
 ## Configuration Options
 

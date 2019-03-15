@@ -2,7 +2,7 @@
 
 ## How to Set Up
 
-Once airplane has been added to your server, go to https://air.aetherya.stream/ to edit your server's configuration. Use the sidebar to read about each plugin, then use the example below along with the information in the sidebar to set up your own customized airplane configuration.
+Once airplane has been added to your server, go to https://dash.airplane.gg/ to edit your server's configuration. Use the sidebar to read about each plugin, then use the example below along with the information in the sidebar to set up your own customized airplane configuration.
 
 Below is a blank configuration example with web, utilities, admin, infractions, modlog, spam, and censor set up. While you can simply copy-paste this to your own server's configuration and fill in the blanks to have a perfectly usable airplane, it's highly encouraged that you read through the full documentation to understand each component and customize airplane to your server's needs.
 
