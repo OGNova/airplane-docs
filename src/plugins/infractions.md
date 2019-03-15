@@ -20,8 +20,8 @@ The infractions plugin provides a set of useful moderator commands. These comman
 | `!inf archive` | Creates a CSV file of all infractions on the server | Administrator | `!inf archive` |
 | `!inf search {query}` | Searches infractions database for given query | Moderator | `!inf search 232921983317180416` OR `!inf search airplane#1595` OR `!inf search spamming`
 | `!inf info {inf}` | Presents information on the given infraction | Moderator | `!inf info 1274`
-| `!inf duration {inf|ml} {duration}` | Updates the duration of the given infraction. Duration starts from time of initial action | Moderator | `!inf duration 1274 5h` |
-| `!inf reason {inf|ml} {reason}` | Updates the reason of a given infraction | Moderator | `!inf reason 1274 rude behaviour towards staff` |
+| `!inf duration {inf} {duration}` | Updates the duration of the given infraction. Duration starts from time of initial action | Moderator | `!inf duration 1274 5h` |
+| `!inf reason {inf} {reason}` | Updates the reason of a given infraction | Moderator | `!inf reason 1274 rude behaviour towards staff` |
 
 ## Configuration Options
 
